@@ -1,0 +1,7 @@
+com\learnAutomation\Utilities\Helper.class
+com\Automation\pages\BaseClass.class
+com\learnAutomation\Utilities\ExcelDataProvider.class
+com\Automation\pages\loginPage.class
+com\learnAutomation\Utilities\BrowserFactory.class
+com\learnAutomation\Utilities\ConfigDataProvider.class
+com\learnAutomation\TestCases\loginTestCRM.class
