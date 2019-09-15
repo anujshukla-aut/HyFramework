@@ -8,7 +8,7 @@ public class loginPage {
 	WebDriver driver;
 	//we will store all the locators
 	//to fail we need to seed error in xpath (in anyone of it)
-	
+	//this is new commint
 	
 	//creating constructor
 	public loginPage(WebDriver ldriver) {
